@@ -23,11 +23,11 @@ This project uses OpenCV, MediaPipe, and PyAutoGUI to turn dual-hand gestures in
   - pyautogui
 
 ##  Installation: 
-git clone https://github.com/yourusername/dual_hand_mouse_project.git
-cd dual_hand_mouse_project
-python -m venv venv
-source venv/bin/activate # On Windows: .\venv\Scripts\activate
-pip install -r requirements.txt
+- git clone https://github.com/yourusername/dual_hand_mouse_project.git
+- cd dual_hand_mouse_project
+- python -m venv venv
+- source venv/bin/activate # On Windows: .\venv\Scripts\activate
+- pip install -r requirements.txt
 
 
 
